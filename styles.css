@@ -1,0 +1,36 @@
+body {
+    background-color: #e6fff3;
+}
+
+.anton {
+    font-family: 'Anton', sans-serif;
+    color: #000080;
+}
+
+.teko {
+    font-family: 'Teko', sans-serif;
+    color: #660066;
+    font-size: 30px;
+}
+
+.sig {
+    font-family: 'Signika', sans-serif;
+    font-size: 18px;
+}
+
+.lob {
+    font-family: 'Lobster', cursive;
+    color: #ffbf80;
+    font-size: 30px;
+    text-decoration-line: underline;
+}
+
+body {
+    background-image: url("https://wallpaperaccess.com/full/2180897.jpg");
+}
+
+img {
+    width: 50%;
+    height: auto;
+    outline-style: double;
+}
